@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">SciCalc</string>
+    <string name="tagline">A thoughtful scientific calculator</string>
+    <string name="history_button">History</string>
+    <string name="history_title">Recent calculations</string>
+    <string name="history_empty">No calculations yet.</string>
+    <string name="history_clear">Clear history</string>
+    <string name="close">Close</string>
+    <string name="degree_mode">DEGREES · tap DEG to change</string>
+    <string name="radian_mode">RADIANS · tap RAD to change</string>
+    <string name="keyboard_title">SCIENTIFIC KEYPAD</string>
+    <string name="footer_hint">Use Ans to reuse the last result · long-press result to copy</string>
+    <string name="expression_description">Current expression</string>
+    <string name="result_description">Calculated result</string>
+    <string name="mode_button_description">Switch between degrees and radians</string>
+    <string name="copy_success">Result copied</string>
+    <string name="error_syntax">Invalid expression</string>
+    <string name="error_division">Division by zero</string>
+    <string name="error_domain">Outside the function domain</string>
+    <string name="error_overflow">Number is too large</string>
+    <string name="error_complexity">Expression is too complex</string>
+    <string name="error_generic">Calculation error</string>
+    <string name="clear">Clear</string>
+    <string name="delete">Delete</string>
+    <string name="equals">Calculate</string>
+    <string name="language_button">🌐 Language</string>
+    <string name="language_title">Interface language</string>
+    <string name="language_system">System default</string>
+    <string name="language_uk">Українська</string>
+    <string name="language_en">English</string>
+    <string name="language_pl">Polski</string>
+</resources>

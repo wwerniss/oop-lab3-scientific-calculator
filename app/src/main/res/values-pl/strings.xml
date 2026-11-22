@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">SciCalc</string>
+    <string name="tagline">Przyjazny kalkulator naukowy</string>
+    <string name="history_button">Historia</string>
+    <string name="history_title">Ostatnie obliczenia</string>
+    <string name="history_empty">Brak obliczeń w historii.</string>
+    <string name="history_clear">Wyczyść historię</string>
+    <string name="close">Zamknij</string>
+    <string name="degree_mode">STOPNIE · dotknij DEG, aby zmienić</string>
+    <string name="radian_mode">RADIANY · dotknij RAD, aby zmienić</string>
+    <string name="keyboard_title">KLAWIATURA NAUKOWA</string>
+    <string name="footer_hint">Ans — poprzedni wynik · przytrzymaj wynik, aby skopiować</string>
+    <string name="expression_description">Bieżące wyrażenie</string>
+    <string name="result_description">Wynik obliczenia</string>
+    <string name="mode_button_description">Przełączanie stopni i radianów</string>
+    <string name="copy_success">Wynik skopiowany</string>
+    <string name="error_syntax">Nieprawidłowe wyrażenie</string>
+    <string name="error_division">Dzielenie przez zero</string>
+    <string name="error_domain">Poza dziedziną funkcji</string>
+    <string name="error_overflow">Zbyt duża liczba</string>
+    <string name="error_complexity">Zbyt złożone wyrażenie</string>
+    <string name="error_generic">Błąd obliczenia</string>
+    <string name="clear">Wyczyść</string>
+    <string name="delete">Usuń</string>
+    <string name="equals">Oblicz</string>
+    <string name="language_button">🌐 Język</string>
+    <string name="language_title">Język interfejsu</string>
+    <string name="language_system">Język systemu</string>
+    <string name="language_uk">Українська</string>
+    <string name="language_en">English</string>
+    <string name="language_pl">Polski</string>
+</resources>

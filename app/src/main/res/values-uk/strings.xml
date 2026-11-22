@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">SciCalc</string>
+    <string name="tagline">Зручний науковий калькулятор</string>
+    <string name="history_button">Історія</string>
+    <string name="history_title">Останні обчислення</string>
+    <string name="history_empty">Історія поки що порожня.</string>
+    <string name="history_clear">Очистити історію</string>
+    <string name="close">Закрити</string>
+    <string name="degree_mode">ГРАДУСИ · натисни DEG для зміни</string>
+    <string name="radian_mode">РАДІАНИ · натисни RAD для зміни</string>
+    <string name="keyboard_title">НАУКОВА КЛАВІАТУРА</string>
+    <string name="footer_hint">Ans — попередній результат · утримуй результат для копіювання</string>
+    <string name="expression_description">Поточний вираз</string>
+    <string name="result_description">Результат обчислення</string>
+    <string name="mode_button_description">Перемикання між градусами та радіанами</string>
+    <string name="copy_success">Результат скопійовано</string>
+    <string name="error_syntax">Некоректний вираз</string>
+    <string name="error_division">Ділення на нуль</string>
+    <string name="error_domain">Значення поза областю визначення</string>
+    <string name="error_overflow">Надто велике число</string>
+    <string name="error_complexity">Надто складний вираз</string>
+    <string name="error_generic">Помилка обчислення</string>
+    <string name="clear">Очистити</string>
+    <string name="delete">Видалити</string>
+    <string name="equals">Обчислити</string>
+    <string name="language_button">🌐 Мова</string>
+    <string name="language_title">Мова інтерфейсу</string>
+    <string name="language_system">Як у системі</string>
+    <string name="language_uk">Українська</string>
+    <string name="language_en">English</string>
+    <string name="language_pl">Polski</string>
+</resources>
